@@ -35,3 +35,18 @@
   %
   **
   //
+  
+# Comparison Operator
+    ==
+    !=
+    >
+    >=
+    <
+    <=
+# Logical Operator
+    and
+    or
+    not
+# Boolean
+    True
+    False
