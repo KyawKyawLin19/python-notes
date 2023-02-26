@@ -58,4 +58,5 @@ value not in list
 for variable in string
 # Range Function
 range(n,n-1)
+range(starting_number,ending_number)
 for variable in range(n,n-1):
