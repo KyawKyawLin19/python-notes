@@ -50,3 +50,12 @@
 # Boolean
     True
     False
+# In
+value in list
+# Not In
+value not in list
+# For Loop
+for variable in string
+# Range Function
+range(n,n-1)
+for variable in range(n,n-1):
