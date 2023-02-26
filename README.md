@@ -54,9 +54,24 @@
 value in list
 # Not In
 value not in list
-# For Loop
-for variable in string
+# Loop
+  For Loop
+  for variable in string
+  while Loop
+  while else Loop
+  nested Loop
 # Range Function
 range(n,n-1)
 range(starting_number,ending_number)
 for variable in range(n,n-1):
+
+# Loop Control Statements
+  continue, break, pass
+# Escape Character
+Symbol Description
+ \\ backslash
+ \’ single quote
+ \\” double quote
+\n new line
+\t tab
+
